@@ -1,0 +1,69 @@
+C:\Users\muzal\OneDrive\Рабочий стол\CourseMatch3\Match3\Match3\bin\Debug\Match3.exe.config
+C:\Users\muzal\OneDrive\Рабочий стол\CourseMatch3\Match3\Match3\bin\Debug\Match3.exe
+C:\Users\muzal\OneDrive\Рабочий стол\CourseMatch3\Match3\Match3\bin\Debug\Match3.pdb
+C:\Users\muzal\OneDrive\Рабочий стол\CourseMatch3\Match3\Match3\obj\Debug\Match3.csprojAssemblyReference.cache
+C:\Users\muzal\OneDrive\Рабочий стол\CourseMatch3\Match3\Match3\obj\Debug\App.g.cs
+C:\Users\muzal\OneDrive\Рабочий стол\CourseMatch3\Match3\Match3\obj\Debug\Match3_MarkupCompile.cache
+C:\Users\muzal\OneDrive\Рабочий стол\CourseMatch3\Match3\Match3\obj\Debug\Match3.g.resources
+C:\Users\muzal\OneDrive\Рабочий стол\CourseMatch3\Match3\Match3\obj\Debug\Match3.Properties.Resources.resources
+C:\Users\muzal\OneDrive\Рабочий стол\CourseMatch3\Match3\Match3\obj\Debug\Match3.csproj.GenerateResource.cache
+C:\Users\muzal\OneDrive\Рабочий стол\CourseMatch3\Match3\Match3\obj\Debug\Match3.csproj.CoreCompileInputs.cache
+C:\Users\muzal\OneDrive\Рабочий стол\CourseMatch3\Match3\Match3\obj\Debug\Match3.exe
+C:\Users\muzal\OneDrive\Рабочий стол\CourseMatch3\Match3\Match3\obj\Debug\Match3.pdb
+C:\Users\muzal\OneDrive\Рабочий стол\CourseMatch3\Match3\Match3\obj\Debug\GameInterface.g.cs
+C:\Users\muzal\OneDrive\Рабочий стол\CourseMatch3\Match3\Match3\obj\Debug\GameOver.g.cs
+C:\Users\muzal\OneDrive\Рабочий стол\CourseMatch3\Match3\Match3\obj\Debug\MainWindow.g.cs
+C:\Users\muzal\OneDrive\Рабочий стол\CourseMatch3\Match3\Match3\obj\Debug\Match3_MarkupCompile.lref
+C:\Users\muzal\OneDrive\Рабочий стол\CourseMatch3\Match3\Match3\obj\Debug\MainMenu.g.cs
+C:\Users\muzal\OneDrive\Рабочий стол\CourseMatch3\Match3\Match3\obj\Debug\GameInterface.baml
+C:\Users\muzal\OneDrive\Рабочий стол\CourseMatch3\Match3\Match3\obj\Debug\GameOver.baml
+C:\Users\muzal\OneDrive\Рабочий стол\CourseMatch3\Match3\Match3\obj\Debug\MainWindow.baml
+C:\Users\muzal\OneDrive\Рабочий стол\CourseMatch3\Match3\Match3\obj\Debug\MainMenu.baml
+C:\Users\muzal\OneDrive\Рабочий стол\CourseMatch3\Match3\Match3\obj\Debug\SettingsWindow.g.cs
+C:\Users\muzal\OneDrive\Рабочий стол\CourseMatch3\Match3\Match3\obj\Debug\SettingsWindow.baml
+C:\Users\Admin\Documents\Учеба\2 курс 2 семестр\ООП\Курсовой проект\Match3\Match3\bin\Debug\Match3.exe.config
+C:\Users\Admin\Documents\Учеба\2 курс 2 семестр\ООП\Курсовой проект\Match3\Match3\bin\Debug\Match3.exe
+C:\Users\Admin\Documents\Учеба\2 курс 2 семестр\ООП\Курсовой проект\Match3\Match3\obj\Debug\Match3.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Учеба\2 курс 2 семестр\ООП\Курсовой проект\Match3\Match3\obj\Debug\GameInterface.g.cs
+C:\Users\Admin\Documents\Учеба\2 курс 2 семестр\ООП\Курсовой проект\Match3\Match3\obj\Debug\GameOver.g.cs
+C:\Users\Admin\Documents\Учеба\2 курс 2 семестр\ООП\Курсовой проект\Match3\Match3\obj\Debug\MainMenu.g.cs
+C:\Users\Admin\Documents\Учеба\2 курс 2 семестр\ООП\Курсовой проект\Match3\Match3\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Documents\Учеба\2 курс 2 семестр\ООП\Курсовой проект\Match3\Match3\obj\Debug\SettingsWindow.g.cs
+C:\Users\Admin\Documents\Учеба\2 курс 2 семестр\ООП\Курсовой проект\Match3\Match3\obj\Debug\App.g.cs
+C:\Users\Admin\Documents\Учеба\2 курс 2 семестр\ООП\Курсовой проект\Match3\Match3\obj\Debug\Match3_MarkupCompile.cache
+C:\Users\Admin\Documents\Учеба\2 курс 2 семестр\ООП\Курсовой проект\Match3\Match3\obj\Debug\Match3_MarkupCompile.lref
+C:\Users\Admin\Documents\Учеба\2 курс 2 семестр\ООП\Курсовой проект\Match3\Match3\obj\Debug\GameInterface.baml
+C:\Users\Admin\Documents\Учеба\2 курс 2 семестр\ООП\Курсовой проект\Match3\Match3\obj\Debug\GameOver.baml
+C:\Users\Admin\Documents\Учеба\2 курс 2 семестр\ООП\Курсовой проект\Match3\Match3\obj\Debug\MainMenu.baml
+C:\Users\Admin\Documents\Учеба\2 курс 2 семестр\ООП\Курсовой проект\Match3\Match3\obj\Debug\MainWindow.baml
+C:\Users\Admin\Documents\Учеба\2 курс 2 семестр\ООП\Курсовой проект\Match3\Match3\obj\Debug\SettingsWindow.baml
+C:\Users\Admin\Documents\Учеба\2 курс 2 семестр\ООП\Курсовой проект\Match3\Match3\obj\Debug\Match3.g.resources
+C:\Users\Admin\Documents\Учеба\2 курс 2 семестр\ООП\Курсовой проект\Match3\Match3\obj\Debug\Match3.Properties.Resources.resources
+C:\Users\Admin\Documents\Учеба\2 курс 2 семестр\ООП\Курсовой проект\Match3\Match3\obj\Debug\Match3.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Учеба\2 курс 2 семестр\ООП\Курсовой проект\Match3\Match3\obj\Debug\Match3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Учеба\2 курс 2 семестр\ООП\Курсовой проект\Match3\Match3\obj\Debug\Match3.exe
+C:\Users\Admin\Documents\Учеба\2 курс 2 семестр\ООП\Курсовой проект\Match3\Match3\obj\Debug\Match3.pdb
+C:\Users\Admin\Documents\Учеба\2 курс 2 семестр\ООП\Курсовой проект\Match3\Match3\bin\Debug\Match3.pdb
+D:\Учеба\2 курс 2 семестр\ООП\Курсовой проект\Match3\Match3\bin\Debug\Match3.exe.config
+D:\Учеба\2 курс 2 семестр\ООП\Курсовой проект\Match3\Match3\bin\Debug\Match3.exe
+D:\Учеба\2 курс 2 семестр\ООП\Курсовой проект\Match3\Match3\bin\Debug\Match3.pdb
+D:\Учеба\2 курс 2 семестр\ООП\Курсовой проект\Match3\Match3\obj\Debug\Match3.csproj.AssemblyReference.cache
+D:\Учеба\2 курс 2 семестр\ООП\Курсовой проект\Match3\Match3\obj\Debug\GameInterface.g.cs
+D:\Учеба\2 курс 2 семестр\ООП\Курсовой проект\Match3\Match3\obj\Debug\GameOver.g.cs
+D:\Учеба\2 курс 2 семестр\ООП\Курсовой проект\Match3\Match3\obj\Debug\MainMenu.g.cs
+D:\Учеба\2 курс 2 семестр\ООП\Курсовой проект\Match3\Match3\obj\Debug\MainWindow.g.cs
+D:\Учеба\2 курс 2 семестр\ООП\Курсовой проект\Match3\Match3\obj\Debug\SettingsWindow.g.cs
+D:\Учеба\2 курс 2 семестр\ООП\Курсовой проект\Match3\Match3\obj\Debug\App.g.cs
+D:\Учеба\2 курс 2 семестр\ООП\Курсовой проект\Match3\Match3\obj\Debug\Match3_MarkupCompile.cache
+D:\Учеба\2 курс 2 семестр\ООП\Курсовой проект\Match3\Match3\obj\Debug\Match3_MarkupCompile.lref
+D:\Учеба\2 курс 2 семестр\ООП\Курсовой проект\Match3\Match3\obj\Debug\GameInterface.baml
+D:\Учеба\2 курс 2 семестр\ООП\Курсовой проект\Match3\Match3\obj\Debug\GameOver.baml
+D:\Учеба\2 курс 2 семестр\ООП\Курсовой проект\Match3\Match3\obj\Debug\MainMenu.baml
+D:\Учеба\2 курс 2 семестр\ООП\Курсовой проект\Match3\Match3\obj\Debug\MainWindow.baml
+D:\Учеба\2 курс 2 семестр\ООП\Курсовой проект\Match3\Match3\obj\Debug\SettingsWindow.baml
+D:\Учеба\2 курс 2 семестр\ООП\Курсовой проект\Match3\Match3\obj\Debug\Match3.g.resources
+D:\Учеба\2 курс 2 семестр\ООП\Курсовой проект\Match3\Match3\obj\Debug\Match3.Properties.Resources.resources
+D:\Учеба\2 курс 2 семестр\ООП\Курсовой проект\Match3\Match3\obj\Debug\Match3.csproj.GenerateResource.cache
+D:\Учеба\2 курс 2 семестр\ООП\Курсовой проект\Match3\Match3\obj\Debug\Match3.csproj.CoreCompileInputs.cache
+D:\Учеба\2 курс 2 семестр\ООП\Курсовой проект\Match3\Match3\obj\Debug\Match3.exe
+D:\Учеба\2 курс 2 семестр\ООП\Курсовой проект\Match3\Match3\obj\Debug\Match3.pdb
